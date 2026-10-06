@@ -62,6 +62,15 @@ An interactive Streamlit application was developed to allow users to enter 16 ph
 
 - `app.py` - Streamlit application
 - `dry_bean_svm_model.pkl` - Trained SVM classification model
+
+- ## 🚀 Live Application
+
+The Dry Bean Type Classification model has been deployed as an interactive Streamlit web application.
+
+**Live App:**  
+https://dry-bean-classification-ml-c7pncnjntx8g9mctkptgxr.streamlit.app/
+
+Users can enter the physical and geometrical measurements of a dry bean and obtain its predicted class using the trained SVM model.
 - `dry_bean_scaler.pkl` - Fitted StandardScaler
 - `Himani Supervised ML Classification Mini Project.ipynb` - Complete machine learning notebook
 - `requirements.txt` - Required Python packages
